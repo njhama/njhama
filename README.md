@@ -2,9 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=njhama&label=Profile%20views&color=0e75b6&style=flat" alt="njhama" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<!-- Add your badges here -->
-
 <table>
   <tr>
     <td>
